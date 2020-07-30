@@ -1,5 +1,5 @@
 ### Hi there ! I'm Thanh Truong
-(originally: Thành Trương)
+(originally written as : Thành Trương)
 
 <!--
 **Thanh-Truong/Thanh-Truong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
