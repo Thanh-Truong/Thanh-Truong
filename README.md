@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ! 👋 I'm Thanh Truong
 
 <!--
 **Thanh-Truong/Thanh-Truong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Just a software developer and database researcher whose passion is building data-intensive applications.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on building data platform at [TV4](https://tv4.se), Sweden
+- :newspaper: I maintain an online CV at [thanh-truong.github.io](thanh-truong.github.io)
+- :email: You can reach me via my [Linkedin](https://www.linkedin.com/in/thanh-truong/)
