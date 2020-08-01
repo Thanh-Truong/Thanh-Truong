@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 This is a software developer and a former database researcher whose passion is building data-intensive applications. .
+👋 This is a software developer and former database researcher whose passion is building data-intensive applications. .
 
 - 🔭 I’m currently working on building data platform at :tv:[TV4](https://tv4.se), Stockholm, Sweden.
 - 🌱 I’m currently learning a lot of things.
