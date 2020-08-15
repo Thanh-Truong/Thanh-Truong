@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/Thanh-Truong/Thanh-Truong/issues)
 - :newspaper: More about me: [thanh-truong.github.io](https://thanh-truong.github.io).
 - 📫 Connect with me at [Linkedin](https://www.linkedin.com/in/thanh-truong/)
-
-![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=thanh-truong&hide=stars,contribs&count_private=true&include_all_commits=true&show_icons=true)
 <!--
+![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=thanh-truong&hide=stars,contribs&count_private=true&include_all_commits=true&show_icons=true)
+
 References:
 https://github.com/anuraghazra/github-readme-stats 
 -->
