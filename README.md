@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👋 This is a software developer and former database researcher whose passion is building data-intensive applications. .
 
-- 🔭 I’m currently working on building data platform at :tv:[TV4](https://tv4.se), Stockholm, Sweden.
+- 🔭 I’m currently working on building data platform at [H&M Group](https://hmgroup.com/), Stockholm, Sweden.
 - 🌱 I’m currently learning a lot of things.
 - 👯 I’m looking to collaborate on making a new database.
 - 💬 Ask me about anything [here](https://github.com/Thanh-Truong/Thanh-Truong/issues)
