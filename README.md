@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning a lot of things.
 - 👯 I’m looking to collaborate on making a new database.
 - 💬 Ask me about anything [here](https://github.com/Thanh-Truong/Thanh-Truong/issues)
-- :newspaper: More about me: [thanh-truong.github.io](https://thanh-truong.github.io).
 - 📫 Connect with me at [Linkedin](https://www.linkedin.com/in/thanh-truong/)
 <!--
 ![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=thanh-truong&hide=stars,contribs&count_private=true&include_all_commits=true&show_icons=true)
